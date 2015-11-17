@@ -59,7 +59,7 @@ public class Purchase {
 		return "ShippingEntryForm";
 	}
 	
-	@RequestMapping(path = "/submitShippingInfo", method = RequestMethod.POST)
+	@RequestMapping(path = "purchase/submitShippingInfo", method = RequestMethod.POST)
 	public String submitShippingInfo(@ModelAttribute("shippingInfo") ShippingInfo shippingInfo, 
 			HttpServletRequest request) throws Exception {
 		request.getSession().setAttribute("shippingInfo", shippingInfo);
