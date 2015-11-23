@@ -11,7 +11,11 @@
 <%@ include file="header.jsp" %>
 <center>
 
-	<p>Thanks for visiting my page.</p>
+	<p>
+
+		<h1>Thanks for visiting my page. </h1>
+	
+	</p>
 
 </center>
 <%@ include file="footer.jsp" %>
