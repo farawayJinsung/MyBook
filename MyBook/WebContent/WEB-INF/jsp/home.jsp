@@ -4,9 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome to MyBook Company</title>
 </head>
 <body>
+
+<%@ include file="header.jsp" %>
+<center>
+
+	<p>Thanks for visiting my page.</p>
+
+</center>
+<%@ include file="footer.jsp" %>
 
 </body>
 </html>
