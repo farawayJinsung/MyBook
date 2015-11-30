@@ -4,21 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to MyBook Company</title>
+<title>Contact Us</title>
 </head>
 <body>
-
-<%@ include file="header.jsp" %>
-<center>
-
-	<p>
-
-		<h1>Thanks for visiting our page. </h1>
-	
-	</p>
-
-</center>
-<%@ include file="footer.jsp" %>
 
 </body>
 </html>

@@ -4,18 +4,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to MyBook Company</title>
+<title>Abount Us</title>
 </head>
 <body>
 
 <%@ include file="header.jsp" %>
 <center>
-
-	<p>
-
-		<h1>Thanks for visiting our page. </h1>
+	<br>
+	Company Name: 
+	<br>
+	Company Vision and Mission:
+	<br>
 	
-	</p>
 
 </center>
 <%@ include file="footer.jsp" %>
